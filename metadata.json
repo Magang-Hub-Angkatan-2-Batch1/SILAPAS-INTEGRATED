@@ -1,0 +1,6 @@
+{
+  "name": "SILAPAS-INTEGRATED",
+  "description": "Sistem Informasi Layanan Kehumasan, BMN, dan SDM Lapas Perempuan Kelas III Pangkal Pinang",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
